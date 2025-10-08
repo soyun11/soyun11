@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto
-  &height=300&section=header&text=Soyun Park%20render%fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Soyun Park%20render%fontSize=90" />
   
 <img src="https://komarev.com/ghpvc/?username=soyun11&color=blue"/>
 
@@ -63,7 +62,7 @@ Looking to collaborate on **Open Source Projects**
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/></br>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=150&section=footer" />
+<!--<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=150&section=footer" />-->
 
 
 
