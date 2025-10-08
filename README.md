@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### About Me
 💻 I'm a passionate developer exploring **Web & Cloud technologies**  
-🌱 Currently learning **Azure, React, and Python**  
+🌱 Currently learning **Azure, AWS, Docker, and Python**  
 👯 Looking to collaborate on **Open Source Projects**  
-💬 Ask me about **Web Development, Cloud, and GitHub**  
+💬 Ask me about **Web Development, Cloud**  
 
 ### GitHub Stats
 <p align="center">
