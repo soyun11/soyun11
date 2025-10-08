@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 
 ### About Me
 💻 I'm a passionate developer exploring **Web & Cloud technologies**  
-🌱 Currently learning **Azure, AWS, Docker, HTML, CSS, JS and Python**  
+🌱 Currently learning **Azure, AWS, MySQL, PostgreSQL, Docker, HTML, CSS, JS**  
 👯 Looking to collaborate on **Open Source Projects**  
-💬 Ask me about **Web Development, Cloud**  
 
 ### GitHub Stats
 <p align="center">
