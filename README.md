@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://capsule-render.vercel.app/api?type=wave&color=cfecf7&height=300&section=header&text=SoyunPark&fontSize=40&font-color=1c96c5&animation=twinkling" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SoyunPark&fontSize=70&font-color=ffffff&animation=twinkling&fontAlign=70" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=🌸SoyunPark✨&fontSize=70&font-color=ffffff&animation=twinkling&fontAlign=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SoyunPark&fontSize=70&font-color=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=🌸SoyunPark✨&fontSize=70&font-color=ffffff&animation=twinkling" />
 
 
 
