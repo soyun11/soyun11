@@ -15,25 +15,24 @@ Here are some ideas to get you started:
 -->
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto
   &height=300&section=header&text=Soyun Park%20render%fontSize=90" />
-<img src="https://komarev.com/ghpvc/?username=soyun11&color=skyblue"/>
+<img src="https://komarev.com/ghpvc/?username=soyun11&color=blue"/>
 
 ## Hi there 👋
 
 ### About Me
 I'm currently studying Backend Development and Cloud technologies.
+I'm a passionate developer exploring **Web & Cloud technologies**  
+Currently learning **Azure, AWS, MySQL, PostgreSQL, Docker, HTML, CSS, JS**  
+Looking to collaborate on **Open Source Projects**  
 
-💻 I'm a passionate developer exploring **Web & Cloud technologies**  
-🌱 Currently learning **Azure, AWS, MySQL, PostgreSQL, Docker, HTML, CSS, JS**  
-👯 Looking to collaborate on **Open Source Projects**  
 
-
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyun11&layout=compact&theme=radical" />
+<!--### GitHub Stats-->
+<!--<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyun11&layout=compact&theme=radical" />-->
   <!--<img src="https://github-readme-stats.vercel.app/api?username=soyun11&show_icons=true&theme=radical" />-->
 </p>
 
-### Tech Stack
+### Languages and Tech Stack
 <!--python, java, c++, c-->
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
