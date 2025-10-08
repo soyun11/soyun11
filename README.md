@@ -13,14 +13,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto
+  &height=300&section=header&text=Soyun Park%20render%fontSize=90" />
+<img src="https://komarev.com/ghpvc/?username=soyun11&color=skyblue"/>
 
 ## Hi there 👋
 
 ### About Me
+I'm currently studying Backend Development and Cloud technologies.
+
 💻 I'm a passionate developer exploring **Web & Cloud technologies**  
 🌱 Currently learning **Azure, AWS, MySQL, PostgreSQL, Docker, HTML, CSS, JS**  
 👯 Looking to collaborate on **Open Source Projects**  
+
 
 ### GitHub Stats
 <p align="center">
