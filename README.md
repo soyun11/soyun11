@@ -41,7 +41,7 @@ Looking to collaborate on **Open Source Projects**  -->
 
 ### Featured Projects
 
-**[AI Agent for Professors](#)** — *링크 추가 예정*
+**[AI Agent for Professors](https://github.com/soyun11/ai-professor-agent)**
 > 강의 PDF·음성을 자동 동기화하고 RAG로 질의응답하는 AI Agent. 5가지 동기화 알고리즘을 구현·평가하는 실험 프레임워크 구축. 충남대학교 데이터네트워크 연구실 학부연구생 활동의 일환.
 > `FastAPI` `Next.js` `Qwen2.5-VL` `faster-whisper` `BGE-M3` `RAG`
 
