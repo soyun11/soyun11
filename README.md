@@ -41,18 +41,24 @@ Looking to collaborate on **Open Source Projects**  -->
 
 ### Featured Projects
 
-**[AI Agent for Professors](https://github.com/soyun11/ai-professor-agent)**
-> 강의 PDF·음성을 자동 동기화하고 RAG로 질의응답하는 AI Agent. 5가지 동기화 알고리즘을 구현·평가하는 실험 프레임워크 구축. 충남대학교 데이터네트워크 연구실 학부연구생 활동의 일환.
-> `FastAPI` `Next.js` `Qwen2.5-VL` `faster-whisper` `BGE-M3` `RAG`
-
 **[CNU AI Agent](#)** — *링크 추가 예정*
 > 충남대 종합설계 프로젝트. 도서관 웹사이트를 자연어로 탐색하는 멀티 에이전트 개발, Qwen2.5-VL-32B QLoRA 파인튜닝 및 성능 평가. 한국컴퓨터종합학술대회(KCC) 2026 논문 채택 — "대학교 도서관 웹사이트 에이전트를 위한 로컬 LLM 파인튜닝 및 평가"
 > `Python` `Playwright` `Qwen2.5-VL` `ChromaDB` `RAG`
+
+**[AI Agent for Professors](https://github.com/soyun11/ai-professor-agent)**
+> 강의 PDF·음성을 자동 동기화하고 RAG로 질의응답하는 AI Agent. 5가지 동기화 알고리즘을 구현·평가하는 실험 프레임워크 구축. 충남대학교 데이터네트워크 연구실 학부연구생 활동의 일환.
+> `FastAPI` `Next.js` `Qwen2.5-VL` `faster-whisper` `BGE-M3` `RAG`
 
 **[Radio Broadcast Structural Analysis](https://github.com/soyun11/radio-ad-detection)**
 > 장시간 라디오 방송(DJ/음악/광고)을 화자 역할(role-aware) 기반으로 구조화하고, LLM으로 DJ 발화 요약·음악 정보·광고 메타데이터를 추출하는 연구. 30일치 KBS/MBC/SBS 라디오 방송 데이터로 평가, DJ/음악/광고 블록 탐지 F1 0.91/0.90/0.88 달성. Interspeech 2026 논문 제출 — "Hybrid Role-Aware Structural Modeling and Semantic Extraction for Long-Form Radio Broadcasts"
 > `Python` `WhisperX` `Pyannote (Speaker Diarization)` `Panako (Audio Fingerprinting)` `GPT-4o` `ffmpeg`
 
+### Other Projects
+> 충남대학교 웹 프로그래밍 수업에서 진행한 개인 프로젝트입니다.
+
+- **[Bread Pilgrimage](https://github.com/soyun11/bread-pilgrimage)** — 메뉴·위치 기반 빵집 탐색 플랫폼 · `PHP` `MySQL` `Naver Maps API`
+- **[Calendar App](https://github.com/soyun11/calendar-app)** — PHP 세션 인증 + Drag & Drop 기반 일정 관리 캘린더 · `PHP` `Vanilla JS`
+- **[Media Playground](https://github.com/soyun11/media-playground)** — Canvas 기반 비디오·텍스트 편집기, localStorage 자동 저장 · `HTML5 Canvas` `JavaScript`
 
 ### Languages and Tech Stack
 <!--python, java, c++, c-->
