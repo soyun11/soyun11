@@ -3,10 +3,10 @@
 # 박소윤 | Soyun Park
 
 **AI Agent Engineer**
-*충남대학교 컴퓨터융합학부 (클라우드 부전공) · 재학중*
+*충남대학교 컴퓨터융합학부 (클라우드 부전공) · 졸업 예정 2027.02*
 
 <p>
-<a href="mailto:567654@naver.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="mailto:567654@o.cnu.ac.kr"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/soyun11"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
@@ -14,13 +14,22 @@
 
 ## 🔬 About Me
 
-> LLM 기반 AI Agent 개발에 관심있는 학생입니다.
+> LLM 기반 AI Agent를 연구하고, 실제로 동작하는 서비스까지 만드는 데 관심있는 학생입니다.
 
 - 🎓 충남대학교 컴퓨터융합학부, 클라우드 부전공
 - 🔬 데이터네트워크 연구실 학부연구생 — LLM/AI Agent 연구 (2025.12 ~)
 - 🤖 **CNU AI Agent**: 대학도서관 웹사이트 멀티 에이전트, Qwen2.5-VL-32B QLoRA 파인튜닝
 - 📋 **KCC 2026** 논문 채택 · **Interspeech 2026** 논문 제출
 - 🏆 Build with AI Hackathon 2026 in Daejeon 참가 (GDG)
+- 📜 SQLD (SQL 개발자) 자격증 보유
+
+---
+
+## 💡 How I Work
+
+- 🔍 문제가 생기면 로그까지 파고들어 원인을 유형별로 분리합니다 — CNU AI Agent 평가에서 발견한 실패 유형(DOM index 변화, 불필요한 action, 로그인 플로우 오류)을 나눠 분석해 성공률 **45% → 75%** 개선
+- 🧩 모델 성능보다 데이터 설계·평가 기준·실패 원인 분석이 서비스 품질을 좌우한다고 생각합니다
+- ⏱️ 시간이 제한된 환경(해커톤 등)에서는 핵심 기능을 먼저 구현하고 검증한 뒤 세부를 보완하는 순서로 작업합니다
 
 ---
 
@@ -42,6 +51,15 @@
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+**Web / Product**
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
 ---
