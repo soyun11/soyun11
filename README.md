@@ -50,11 +50,29 @@
 
 ## 📌 Featured Projects
 
-- **[CNU AI Agent](#)** — 충남대 종합설계. 도서관 웹사이트 자연어 탐색 멀티 에이전트, Qwen2.5-VL-32B QLoRA 파인튜닝 및 평가 · `Python` `Playwright` `RAG`
-- **[AI Agent for Professors](https://github.com/soyun11/ai-professor-agent)** — 강의 PDF·음성 동기화 + RAG 기반 질의응답 Agent · `FastAPI` `Next.js` `faster-whisper`
-- **[Radio Broadcast Structural Analysis](https://github.com/soyun11/radio-ad-detection)** — Role-aware 구조화 + LLM 의미 추출, DJ/음악/광고 블록 탐지 F1 0.91/0.90/0.88 · `WhisperX` `Pyannote` `GPT-4o`
+### 🤖 CNU AI Agent
+> 대학도서관 웹사이트를 자연어로 탐색하는 멀티 에이전트
 
-> 자세한 내용은 하단 Pinned Repositories를 참고해주세요.
+- 도서 검색·대출 조회·공지 탐색 등 다양한 도서관 태스크 수행
+- Qwen2.5-VL-32B QLoRA 파인튜닝, Gemini 2.5 Flash 상용모델과 비교 실험
+- 100개 태스크 평가 → 실패 유형 분석 → 성공률 45% → 75% 개선
+- **KCC 2026** 논문 채택 — "대학교 도서관 웹사이트 에이전트를 위한 로컬 LLM 파인튜닝 및 평가"
+
+### 📚 AI Agent for Professors
+> 강의 PDF·음성을 동기화하고 RAG로 질의응답하는 Agent
+
+- 5가지 PDF-음성 동기화 알고리즘 구현 및 평가 프레임워크 구축
+- Qwen2.5-VL, faster-whisper, BGE-M3 기반 RAG 파이프라인
+- 충남대학교 데이터네트워크 연구실 학부연구생 활동의 일환
+
+### 🎙️ Radio Broadcast Structural Analysis
+> 장시간 라디오 방송을 역할 기반(Role-Aware)으로 구조화하는 파이프라인
+
+- WhisperX + Pyannote + GPT-4o로 DJ/음악/광고 블록 자동 탐지·요약
+- 30일치 KBS/MBC/SBS 데이터 평가, 블록 탐지 F1 0.91 / 0.90 / 0.88 달성
+- **Interspeech 2026** 논문 제출 — "Hybrid Role-Aware Structural Modeling and Semantic Extraction for Long-Form Radio Broadcasts"
+
+> 각 프로젝트의 코드는 하단 Pinned Repositories에서 확인하실 수 있습니다.
 
 ---
 
