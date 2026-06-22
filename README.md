@@ -25,6 +25,7 @@
 - 📋 **KCC 2026** 논문 채택 · **Interspeech 2026** 논문 제출
 - 🏆 Build with AI Hackathon 2026 in Daejeon 참가 (GDG)
 - 📜 SQLD (SQL 개발자) 자격증 보유
+- 🌱 [MLflow](https://github.com/mlflow/mlflow) 오픈소스 기여 — docker-compose 문서 수정 ([PR #18192](https://github.com/mlflow/mlflow/pull/18192))
 
 ---
 
