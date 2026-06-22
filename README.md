@@ -48,7 +48,7 @@
 
 ## 📌 Featured Projects
 
-### 🤖 CNU AI Agent 
+### 🤖 CNU AI Agent *(repo: BUA-library)*
 > 대학도서관 웹사이트를 자연어로 탐색하는 멀티 에이전트
 
 - 도서 검색·대출 조회·공지 탐색 등 다양한 도서관 태스크 수행
@@ -56,14 +56,14 @@
 - 100개 태스크 평가 → 실패 유형 분석 → 성공률 45% → 75% 개선
 - **KCC 2026** 논문 채택 — "대학교 도서관 웹사이트 에이전트를 위한 로컬 LLM 파인튜닝 및 평가"
 
-### 📚 AI Agent for Professors 
+### 📚 AI Agent for Professors
 > 강의 PDF·음성을 동기화하고 RAG로 질의응답하는 Agent
 
 - 5가지 PDF-음성 동기화 알고리즘 구현 및 평가 프레임워크 구축
 - Qwen2.5-VL, faster-whisper, BGE-M3 기반 RAG 파이프라인
 - 충남대학교 데이터네트워크 연구실 학부연구생 활동의 일환
 
-### 🎙️ Radio Broadcast Structural Analysis 
+### 🎙️ Radio Broadcast Structural Analysis
 > 장시간 라디오 방송을 역할 기반(Role-Aware)으로 구조화하는 파이프라인
 
 - WhisperX + Pyannote + GPT-4o로 DJ/음악/광고 블록 자동 탐지·요약
