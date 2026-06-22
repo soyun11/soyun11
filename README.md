@@ -1,15 +1,17 @@
-<img src="https://komarev.com/ghpvc/?username=soyun11&color=blue"/>
-
+<div align="center">
 # 박소윤 | Soyun Park
-
+ 
 **AI Agent Engineer**
-*충남대학교 컴퓨터융합학부 (클라우드 부전공) · 졸업 예정 2027.02*
-
-<p>
+ 
+충남대학교 컴퓨터융합학부 (클라우드 부전공) · 졸업 예정 2027.02
+ 
 <a href="mailto:567654@o.cnu.ac.kr"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/soyun11"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-</p>
-
+ 
+<img src="https://komarev.com/ghpvc/?username=soyun11&color=blue"/>
+</div>
+> LLM 기반 AI Agent를 연구하고, 실제로 동작하는 서비스까지 만드는 데 관심있는 학생입니다.
+ 
 ---
 
 ## 🔬 About Me
