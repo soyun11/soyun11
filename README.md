@@ -1,5 +1,5 @@
 <div align="center">
-# 박소윤 | Soyun Park
+#박소윤 | Soyun Park
  
 **AI Agent Engineer**
  
@@ -10,7 +10,6 @@
  
 <img src="https://komarev.com/ghpvc/?username=soyun11&color=blue"/>
 </div>
-> LLM 기반 AI Agent를 연구하고, 실제로 동작하는 서비스까지 만드는 데 관심있는 학생입니다.
  
 ---
 
